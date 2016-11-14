@@ -47,4 +47,3 @@ Der Computer feuert auf G4.
 Der Computer feuert auf G5.
 Der Computer feuert auf G6.
 Der Computer feuert auf G7.
-Der Computer feuert per Zufall auf eine noch nicht getroffene Zelle.
